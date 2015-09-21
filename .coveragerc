@@ -1,0 +1,3 @@
+[run]
+include = Business_Website/*
+omit = *migrations*
